@@ -2,10 +2,17 @@
 
 .bloco {
   display: flex;
- margin-left: 740px;
-  align-items: center;
-  height: 100vh;  
+ margin-left: 720px;
+  align-items: center; 
    width: 100%;
   max-width: 400px;         
+  margin-top: 250px;
+  background-color: rgb(44, 44, 44);
+  padding: 50px;
+  border-radius: 25px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
 
+.cadastro {
+  text-align: center;
 }
